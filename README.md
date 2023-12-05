@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 **Documentation for React Dashlite application**
 
 **React Quick Start:**
@@ -114,3 +115,6 @@ the .htaccess file is included in the server.
     is the same as in step one.
 
 4.  Restart the application and visit the created route.
+=======
+# micmaq
+>>>>>>> f7d5f08262ce3a9c61f9f4c489d7ee53b0594ee5
